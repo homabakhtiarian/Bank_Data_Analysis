@@ -1,5 +1,5 @@
 # Bank Data Tensorflow Project
-We'll use the <a href='https://archive.ics.uci.edu/ml/datasets/banknote+authentication'>Bank Authentication Data Se</a> from the UCI repository.
+We'll use the <a href='https://archive.ics.uci.edu/ml/datasets/banknote+authentication'>Bank Authentication Data Set</a> from the UCI repository.
 
 The data consists of 5 columns:
 
